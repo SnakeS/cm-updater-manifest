@@ -1,20 +1,20 @@
-
 {
     "MirrorList": [
-	"http://win.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates/Extra"
+	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSII/AT&T",
+	"http://www.italiancustomstyle.com/SnakesCustomRom/FoxHound_GSII/AT&T"
     ],
     "UpdateList": [
-
-                    {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "URGENTE SELEZIONARE SCREENSHOTS E LEGGERE (Italiano)",
-            "version": "1.0",
-            "description": "4Seasons, la rom del team di Snakes",
+    	
+    	    	       {   
+            "mod": "SGH-I777",
+            "board": "smdk4210",
+            "type": "rom",
+            "name": "FoxHound PsychoMantis V2",
+            "version": "2.0",
+            "description": "FoxHound PsychoMantis V2",
             "branch": "S",
-            "filename": "nopachetto.zip",
-            "Screenshots": ["http://i1118.photobucket.com/albums/k616/guidox79/saluto-ota.png",
-            ]
+            "filename": "FoxHound_PsychoMantis_XWLP7_ICS_GSII_AT&T_By_SnakeS.zip"
         },
+        
+     ]
 }
